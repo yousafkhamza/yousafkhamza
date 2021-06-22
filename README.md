@@ -15,9 +15,10 @@ A little more about me...
         - AWS
         - Azure
     - Operating Systems:
-        - Red Hat Linux Release 6.x, 7, & 8
+        - Red Hat Linux Release 6.x, 7.x, & 8.x
         - Ubuntu 18.04, 20.04
-        - Cent OS 6.x, 7    
+        - Cent OS 6.x, 7.x, 8.x
+        - Kali Linux 2018-4, 2020-2
     - Scripting:
         - Bash
         - Python    
@@ -50,7 +51,6 @@ A little more about me...
 
 ### ⚙️ Connect with Me
 
-<p align="center">
 <p align="center">
 <a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/-yousaf.k.hamza@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yousafkhamza"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>

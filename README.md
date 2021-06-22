@@ -34,16 +34,19 @@ A little more about me...
         - Jenkins
     - Containerization:
         - Docker
+    - Containerzation Image Builder
+        - Buildah
     - Monitoring:
         - Nagios
         - Zabbix
+        - Mail Channels
         - PRTG
         - AWS Cloud Watch
 ```     
 
 ### ⚙️ GitHub Analytics
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkantonyGit&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" />
 
 ### ⚙️ Connect with Me
 
@@ -51,4 +54,3 @@ A little more about me...
 <p align="center">
 <a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/-yousaf.k.hamza@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yousafkhamza"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
-<a href="https://techbit-new.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-orange"/></a>

@@ -12,8 +12,7 @@ A little more about me...
   hosts: GitHub
   become: true
     - Cloud platform:
-        - AWS
-        - Azure
+        - AWS Cloud
     - Operating Systems:
         - Red Hat Linux Release 6.x, 7.x, & 8.x
         - Ubuntu 18.04, 20.04

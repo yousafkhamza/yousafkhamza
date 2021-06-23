@@ -14,9 +14,9 @@ A little more about me...
     - Cloud platform:
         - AWS Cloud
     - Operating Systems:
-        - Red Hat Linux Release 6.x, 7.x, & 8.x
+        - RedHat Linux Release 6.x, 7.x
         - Ubuntu 18.04, 20.04
-        - Cent OS 6.x, 7.x, 8.x
+        - CentOS 6.x, 7.x,
         - Kali Linux 2018-4, 2020-2
     - Scripting:
         - Bash

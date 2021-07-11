@@ -18,7 +18,7 @@ A little more about me...
         - Ubuntu 18.04, 20.04
         - CentOS 6.x, 7.x,
         - Kali Linux 2018-4, 2020-2
-    - Scripting:
+    - Scripting Languages:
         - Bash
         - Python    
     - Infrastucture As a Code:
@@ -37,12 +37,11 @@ A little more about me...
         - K8's
     - Containerzation Image Builder
         - Buildah
-    - Monitoring:
+    - Monitoring Tools:
+        - AWS CloudWatch
         - Nagios
         - Zabbix
-        - Mail Channels
         - PRTG
-        - AWS Cloud Watch
 ```     
 
 ### ⚙️ GitHub Analytics

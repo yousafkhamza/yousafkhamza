@@ -30,7 +30,7 @@ A little more about me...
         - Packer
     - Source Code Management/Version Control:
         - Git
-    - Continous Integeration/Contious Deployment:
+    - Continuous Integeration/Continuous Deployment:
         - Jenkins
     - Containerization:
         - Docker

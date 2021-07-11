@@ -35,7 +35,7 @@ A little more about me...
     - Containerization:
         - Docker
         - K8's
-    - Containerzation Image Builder
+    - OCI compatible Image Builder:
         - Buildah
     - Monitoring Tools:
         - AWS CloudWatch

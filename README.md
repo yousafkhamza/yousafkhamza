@@ -34,6 +34,7 @@ A little more about me...
         - Jenkins
     - Containerization:
         - Docker
+        - K8's
     - Containerzation Image Builder
         - Buildah
     - Monitoring:

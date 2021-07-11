@@ -53,3 +53,4 @@ A little more about me...
 <p align="center">
 <a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/-yousaf.k.hamza@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yousafkhamza"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
+<a href="https://www.instagram.com/yousafkhamza"><img src="https://img.shields.io/badge/instagram-yousafkhamza-orange"/></a>

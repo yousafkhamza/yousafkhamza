@@ -11,12 +11,14 @@ A little more about me...
 - Name: Yousaf K Hamza
   hosts: GitHub
   become: true
+    - Certifications:
+        - AWS Solution Architect Associate Certfied
     - Cloud platform:
         - AWS Cloud
     - Operating Systems:
         - RedHat Linux Release 6.x, 7.x
         - Ubuntu 18.04, 20.04
-        - CentOS 6.x, 7.x,
+        - CentOS 6.x, 7.x
         - Kali Linux 2018-4, 2020-2
     - Scripting Languages:
         - Bash

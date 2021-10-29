@@ -11,8 +11,6 @@ A little more about me...
 - Name: Yousaf K Hamza
   hosts: GitHub
   become: true
-    - Certifications:
-        - AWS Solution Architect Associate Certfied
     - Cloud platform:
         - AWS Cloud
     - Operating Systems:
@@ -34,16 +32,21 @@ A little more about me...
         - Git
     - Continuous Integeration/Continuous Deployment:
         - Jenkins
+        - Concourse CI
     - Containerization:
         - Docker
         - K8's
     - OCI compatible Image Builder:
         - Buildah
+    - Secrets Management Tool
+        - HashiCorp Vault
     - Monitoring Tools:
         - AWS CloudWatch
         - Nagios
         - Zabbix
         - PRTG
+    - Certifications:
+        - AWS Solution Architect Associate Certfied
 ```     
 
 ### ⚙️ GitHub Analytics

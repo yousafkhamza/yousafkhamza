@@ -47,6 +47,7 @@ A little more about me...
         - PRTG
     - Certifications:
         - AWS Solution Architect Associate Certfied
+        - Python (HackerRank Assessment Certified)
 ```     
 
 ### ⚙️ GitHub Analytics

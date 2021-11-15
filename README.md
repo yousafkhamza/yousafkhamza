@@ -29,10 +29,11 @@ A little more about me...
     - Machine Image As a Code: 
         - Packer
     - Source Code Management/Version Control:
-        - Git
+        - Git (GitHub, BitBucket, GitLab)
     - Continuous Integeration/Continuous Deployment:
         - Jenkins
         - Concourse CI
+        - GitHub Actions
     - Containerization:
         - Docker
         - K8's

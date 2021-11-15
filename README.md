@@ -54,7 +54,7 @@ A little more about me...
 ### ⚙️ GitHub Analytics
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" width="49%" /> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" width="49%" />
-<img src="https://activity-graph.herokuapp.com/graph?username=yousafkhamza&theme=github" alt="GitHub Activity Graph" width="98%" />
+<img src="https://activity-graph.herokuapp.com/graph?username=yousafkhamza&theme=github" alt="GitHub Activity Graph" width="95%" />
 
 
 ### ⚙️ Connect with Me

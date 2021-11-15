@@ -64,7 +64,7 @@ A little more about me...
   <br>
   <p><b>Thank you for your time.</b><br>
     It was nice having you here.<br><br>
-    If you have any queries or just wanna say <i>hi</i>,&nbsp;
+    If you have any queries or just wanna say <i>Hi</i>,&nbsp;
 <p align="center">
 <a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yousafkhamza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 

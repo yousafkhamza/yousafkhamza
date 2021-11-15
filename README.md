@@ -49,18 +49,31 @@ A little more about me...
         - AWS Solution Architect Associate Certfied
         - Python (HackerRank Assessment Certified)
 ```     
-
+<br>
 ### ⚙️ GitHub Analytics
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" />    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" />
 <img src="https://activity-graph.herokuapp.com/graph?username=yousafkhamza&theme=github" alt="GitHub Activity Graph" width="78.7%" />
 
-
+<br>
 ### ⚙️ Connect with Me
 
+<br>
+<br>
+
+<div align="center">
+  <br>
+  <p><b>Thank you for your time.</b><br>
+    It was nice having you here.<br><br>
+    If you have any queries or just wanna say hi, <br><b>PING ME</b>&nbsp;
 <p align="center">
 <a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yousafkhamza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://www.instagram.com/yousafkhamza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://wa.me/%2B917736720639?text=This%20message%20from%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  </a></p>
+</div>
+<br>
+
+<h1 align="center">Salut! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
 

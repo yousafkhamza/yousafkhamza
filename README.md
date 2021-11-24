@@ -3,6 +3,7 @@
 ##### Welcome to my GitHub,
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=yousafkhamza) [![Github](https://img.shields.io/github/followers/yousafkhamza?label=Follow&style=social)](https://github.com/yousafkhamza)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 A little more about me...
 
@@ -50,12 +51,17 @@ A little more about me...
         - AWS Solution Architect Associate Certfied
         - Python (HackerRank Assessment Certified)
 ```     
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### ⚙️ GitHub Analytics
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" width="49%" /> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" width="49%" />
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="95.6%" />
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 ### ⚙️ Connect with Me

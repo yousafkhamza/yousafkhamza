@@ -4,7 +4,6 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=yousafkhamza) [![Github](https://img.shields.io/github/followers/yousafkhamza?label=Follow&style=social)](https://github.com/yousafkhamza)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 A little more about me...
 
 ```
@@ -63,7 +62,6 @@ A little more about me...
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
 ### ⚙️ Connect with Me
 
 <br>
@@ -82,4 +80,6 @@ A little more about me...
 </div>
 
 <h1 align="center">Salut! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

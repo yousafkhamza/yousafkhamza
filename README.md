@@ -47,18 +47,15 @@ A little more about me...
         - Zabbix
         - PRTG
     - Certifications:
-        - AWS Solution Architect Associate Certfied
+        - AWS Solution Architect Associate Certfied (AWS)
         - Python (HackerRank Assessment Certified)
+        - GitOps (LFS169 - The LInux Foundation Certfied)
 ```     
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### ⚙️ GitHub Analytics
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" width="49%" /> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" width="49%" />
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

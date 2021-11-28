@@ -55,7 +55,7 @@ A little more about me...
 
 ### ⚙️ GitHub Analytics
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" width="49%" /> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" width="49%" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" width="49%" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafkhamza&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" width="49%" />
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

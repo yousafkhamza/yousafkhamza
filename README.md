@@ -24,6 +24,7 @@ A little more about me...
     - Infrastucture As a Code:
         - Terraform
         - Ansible
+        - AWS CloudFormation
     - Software Provisioning/Configuration Management:
         - Ansible
     - Machine Image As a Code: 
@@ -32,8 +33,10 @@ A little more about me...
         - Git (GitHub, BitBucket, GitLab)
     - Continuous Integeration/Continuous Deployment:
         - Jenkins
+        - AWS CodePipeline
         - Concourse CI
         - GitHub Actions
+        - GitLab
     - Containerization:
         - Docker
         - K8's
@@ -43,13 +46,14 @@ A little more about me...
         - HashiCorp Vault
     - Monitoring Tools:
         - AWS CloudWatch
+        - Grafana
         - Nagios
         - Zabbix
         - PRTG
     - Certifications:
-        - AWS Solution Architect Associate Certfied (AWS)
+        - Solution Architect Associate (AWS Certified)
         - Python (HackerRank Assessment Certified)
-        - GitOps (LFS169 - The Linux Foundation Certfied)
+        - GitOps (The Linux Foundation Certfied)
 ```     
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

@@ -4,7 +4,26 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=yousafkhamza) [![Github](https://img.shields.io/github/followers/yousafkhamza?label=Follow&style=social)](https://github.com/yousafkhamza)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-A little more about me...
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=cab9ce&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Yousaf+K+Hamza;DevOps+Engineer+🖥;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;A+Automation+scripter🔥">
+</p>
+
+<br>
+<hr>
+
+<!-- ----------- HEAD SECTION END ------------ -->
+
+
+<!-- ----------- TECH STACK SECTION ------------ -->
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<hr>
+
+<!-- ----------- TECH STACK SECTION END------------ -->
+
+A little more about me as a playbook...
 
 ```
 ---
@@ -65,8 +84,12 @@ A little more about me...
 
 ### ⚙️ Connect with Me
 
-<br>
+<!-- ----------- CONNECT WITH ME SECTION ------------ -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=5082e2&size=50&center=true&vCenter=true&width=550&height=70&lines=Connect+with+me">
+</p>
 
+<br>
 <div align="center">
   <br>
   <p><b>Thank you for your time.</b><br>

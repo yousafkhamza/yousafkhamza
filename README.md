@@ -22,8 +22,9 @@
 <hr>
 
 <!-- ----------- TECH STACK SECTION END------------ -->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-A little more about me as a playbook...
+  <img src="https://readme-typing-svg.herokuapp.com?color=cab9ce&size=30&center=true&vCenter=true&width=550&height=70&lines=A+little+more+about+me...;">
 
 ```
 ---

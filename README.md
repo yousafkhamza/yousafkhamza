@@ -82,7 +82,7 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=5082e2&size=50&center=true&vCenter=true&width=550&height=40&lines=Connect+with+me">
+<img src="https://readme-typing-svg.herokuapp.com?color=5082e2&size=40&center=true&vCenter=true&width=550&height=40&lines=Connect+with+me">
 </p>
 
 <br>

@@ -74,8 +74,8 @@
 
 ### ⚙️ GitHub Analytics
 
-[![](https://github-readme-stats.vercel.app/api?username=yousafkhamza&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/yousafkhamza)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=yousafkhamza&theme=tokyonight&hide_border=true)](https://github.com/yousafkhamza)
+[![](src="https://github-readme-stats.vercel.app/api?username=yousafkhamza&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="49%")](https://github.com/yousafkhamza)
+[![](src="https://github-readme-streak-stats.herokuapp.com/?user=yousafkhamza&theme=tokyonight&hide_border=true" width="49%")](https://github.com/yousafkhamza)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

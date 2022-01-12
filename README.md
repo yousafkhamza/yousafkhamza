@@ -74,8 +74,8 @@
 
 ### ⚙️ GitHub Analytics
 
-![](https://github.com/yousafkhamza/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/yousafkhamza/github-stats/blob/master/generated/languages.svg)
+[![](https://github-readme-stats.vercel.app/api?username=yousafkhamza&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garbinmarcelo)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=yousafkhamza&theme=tokyonight&hide_border=true)](https://github.com/garbinmarcelo)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

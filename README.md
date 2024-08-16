@@ -25,6 +25,7 @@
   become: true
     - Cloud platform:
         - AWS Cloud
+        - Azure
     - Operating Systems:
         - RedHat Linux Release 6.x, 7.x
         - Ubuntu 18.04, 20.04
@@ -33,7 +34,7 @@
     - Scripting Languages:
         - Bash
         - Python    
-    - Infrastucture As a Code:
+    - Infrastructure As a Code:
         - Terraform
         - Ansible
         - AWS CloudFormation
@@ -43,10 +44,9 @@
         - Packer
     - Source Code Management/Version Control:
         - Git (GitHub, BitBucket, GitLab)
-    - Continuous Integeration/Continuous Deployment:
+    - Continuous Integration/Continuous Deployment:
         - Jenkins
         - AWS CodePipeline
-        - Concourse CI
         - GitHub Actions
         - GitLab
     - Containerization:
@@ -67,6 +67,8 @@
         - PRTG
     - Certifications:
         - Solution Architect Associate (AWS Certified)
+        - Certified Kubernetes Administrator (The Linux Foundation)
+        - Terraform Associate (KodeKloud)
         - Python (HackerRank Assessment Certified)
         - GitOps (The Linux Foundation Certified)
         - Certified Foundations Associate (Oracle Certified)

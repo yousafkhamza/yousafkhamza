@@ -25,7 +25,8 @@
   become: true
     - Cloud platform:
         - AWS Cloud
-        - Azure
+        - Azure Cloud
+        - GCP Cloud
     - Operating Systems:
         - RedHat Linux Release 6.x, 7.x
         - Ubuntu 18.04, 20.04
@@ -33,7 +34,8 @@
         - Kali Linux 2018-4, 2020-2
     - Scripting Languages:
         - Bash
-        - Python    
+        - Python
+        - GoLang    
     - Infrastructure As a Code:
         - Terraform
         - Ansible
@@ -51,17 +53,25 @@
         - GitLab
     - Containerization:
         - Docker
-        - K8's
+        - Kubernetes
     - OCI compatible Image Builder:
         - Buildah
     - Secrets Management Tool:
         - HashiCorp Vault
+    - Security:
+        - Trvy
+        - Snyk
+        - Checkov
+        - Checkmarx
+        - SonarQube
     - Project Management Tool:
         - Jira
         - GitHub
     - Monitoring Tools:
         - AWS CloudWatch
         - Grafana
+        - Loki
+        - Prometheus
         - Nagios
         - Zabbix
         - PRTG
